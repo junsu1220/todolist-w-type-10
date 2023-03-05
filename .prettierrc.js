@@ -4,7 +4,7 @@ const options = {
   semi: true,
   singleQuote: true,
   jsxSingleQuote: true,
-  arrowParens: "always",
+  arrowParens: 'always',
 };
 
 module.exports = options;
